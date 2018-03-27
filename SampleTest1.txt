@@ -1,3 +1,5 @@
 This is my new file.
 
 I am a java devloper and my role is coding.
+
+coding is a technique.
